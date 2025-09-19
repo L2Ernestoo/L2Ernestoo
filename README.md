@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Laravel
 - 📫 How to reach me: <a href="https://linkedin.com/in/jorge-orellana-gt/" target="blank">Linkedin</a>
 - 😄 Pronouns: Neto, Maquina, Crack, OSO(OML), Hacker...
-- ⚡ Fun fact: I fell off my bike down the train railshttps://github.com/L2Ernestoo/L2Ernestoo/blob/main/README.md
+- ⚡ Fun fact: I fell off my bike down the train rails
 
 <h2>📈 Code Stats</h2>
 <picture>
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   -AngularJS
   -Django
   -Flask
+  -Flutter
   
   -MySQL
   -Oracle
@@ -47,8 +48,4 @@ Here are some ideas to get you started:
   
   -Bootstrap
   -Vuetify
-  
-  #Prox
-  -Spring Boot
-  -Flutter
   -TailwindCSS
