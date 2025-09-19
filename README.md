@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I fell off my bike down the train rails
 
 <h2>📈 Code Stats</h2>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=L2Ernestoo&show_icons=true&theme=vue-dark" alt="L2Ernestoo" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L2Ernestoo&langs_count=9&layout=compact&hide=jupyter%20notebook&theme=vue-dark" alt="L2Ernestoo" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L2Ernestoo&hide=contribs,prs)
 
 
 <h2>🚀 My skills - Main</h2>
