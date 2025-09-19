@@ -14,12 +14,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about Laravel
 - 📫 How to reach me: <a href="https://linkedin.com/in/jorge-orellana-gt/" target="blank">Linkedin</a>
 - 😄 Pronouns: Neto, Maquina, Crack, OSO(OML), Hacker...
-- ⚡ Fun fact: I fell off my bike down the train rails
+- ⚡ Fun fact: I fell off my bike down the train railshttps://github.com/L2Ernestoo/L2Ernestoo/blob/main/README.md
 
 <h2>📈 Code Stats</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L2Ernestoo&hide=contribs,prs)
-
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=L2Ernestoo&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=L2Ernestoo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=L2Ernestoo&show_icons=true" />
+</picture>
 <h2>🚀 My skills - Main</h2>
   -PHP
   -JavaScript
