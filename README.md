@@ -7,6 +7,7 @@
 </p>
 
 I'm a passionate developer with a love for technology, always looking to learn and build innovative solutions. I specialize in the PHP and Laravel ecosystem but am always exploring new tools.
+And I'm also a systems engineer, and I see everything that has a microcontroller...
 
 ---
 
